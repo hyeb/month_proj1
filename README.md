@@ -2,7 +2,7 @@
 
 Programmers_AI 3기 Monthly Project#1
 
-kaggle의 [airplane_satisfaction dataset](https://www.kaggle.com/teejmahal20/airline-passenger-satisfaction)을 활용하여 EDA한 결과를 웹페이지로 배포하기!!
+kaggle의 [airplane_satisfaction dataset](https://www.kaggle.com/teejmahal20/airline-passenger-satisfaction)을 활용하여 EDA한 결과를 웹페이지로 보여주기!!
 
 
 Django, Heroku 사용
