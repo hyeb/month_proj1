@@ -15,8 +15,9 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path, include
-
+from homepage.views import airplane
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', include('homepage.urls')),
+    #path('', include('homepage.urls')),
+    path('', airplane )
 ]
